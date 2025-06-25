@@ -17,4 +17,4 @@ Supports early insight generation using zipcode-based inputs only.
 
 Provides sample web-scraping implementation for community support databases (currently includes 3 ZIP codes).
 
-Sample resource data stored in sample_data/resources.csv.
+Sample resource data stored in Community_Companion_Challenge_(Mar_2024).pdf.
